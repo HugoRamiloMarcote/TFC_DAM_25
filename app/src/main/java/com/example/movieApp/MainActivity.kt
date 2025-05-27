@@ -1,9 +1,9 @@
-package com.example.crearrepositorio
+package com.example.movieApp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.crearrepositorio.databinding.ActivityMainBinding
-import com.example.crearrepositorio.features.home.ui.FragmentHome
+import com.example.movieApp.databinding.ActivityMainBinding
+import com.example.movieApp.features.home.ui.FragmentHome
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

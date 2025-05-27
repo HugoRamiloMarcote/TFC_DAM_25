@@ -1,4 +1,4 @@
-package com.example.crearrepositorio
+package com.example.movieApp
 
 import org.junit.Test
 

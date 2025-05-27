@@ -1,4 +1,4 @@
-package com.example.crearrepositorio.features.home.ui
+package com.example.movieApp.features.home.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -11,7 +11,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import com.example.common_ui.BaseFragment
 import com.example.common_ui.replaceFragment
-import com.example.crearrepositorio.databinding.FragmentHomeBinding
+import com.example.movieApp.databinding.FragmentHomeBinding
 import com.example.ui.fragment.MovieFragment
 import kotlinx.coroutines.launch
 

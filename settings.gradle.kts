@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CrearRepositorio"
+rootProject.name = "MovieApp"
 include(":app")
 include(":features:movies:domain")
 include(":features:movies:data")
